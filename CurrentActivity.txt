@@ -1,0 +1,2 @@
+Activity: 
+com.pp.assistant/com.pp.assistant.activity.PPMainActivity
